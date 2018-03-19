@@ -1,0 +1,29 @@
+
+/*STYLE NAV BAR*/
+.navbar-static-top {
+    margin-bottom: 19px;
+  }
+
+.navbar-header {
+    padding: 15px;
+
+}
+
+
+.navbar-brand{
+    background-color:#4aaaa5;
+    border:1px solid #cccccc;
+    color:#ffffff; 
+    font-size:32px; 
+    width:50%;
+    Height:100%;
+    padding: 20px;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float:left;
+}
+
+/*STYLE BODY*/
+.body{
+    width: 960px;
+}
