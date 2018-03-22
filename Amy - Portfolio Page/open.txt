@@ -1,0 +1,12 @@
+Questions:
+
+Navbar:  why can't I change color in header?
+Navbar:  why can't I move the in-line list to the left?
+
+Content: container size
+Content: why can't my containers line up side-by-side?
+Content: text color, why doesn't it stay gray?
+
+Am I supposed to be changing so much in CSS style sheet?
+Way to find out bootstrap elements to use?
+How many can elements I put in the class?
