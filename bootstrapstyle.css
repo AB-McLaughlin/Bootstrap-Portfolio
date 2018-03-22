@@ -59,9 +59,7 @@
     }
  /*Style Content*/
     img{
-        padding:10px;
-    }
-/*Style text*/
+        padding:10px;}
     .text-left{
         color: #777777;
     }
@@ -70,15 +68,13 @@
       color:#ffffff;
       background: #666666;
       border-top: 4px solid #4aaaa5;
-      width: 100%;
       padding:30px;
-      text-align: center;
     }
 /*Style submit button*/
     button{
       margin:7px;
     }
-/*Style col-sm-8*/
+/*Style col-sm-8 pull left*/
     .col-sm-8{
         margin:10px;
         background:#ffffff;
@@ -86,16 +82,17 @@
         padding:10px;
      
     }
-/*Style col-sm-4*/
+/*Style col-sm-4 pull right*/
     .col-sm-4{
         margin:10px;
         background:#ffffff;
         border:1px solid #ccc;
         padding:10px;
-        float:right;
     }
+/*Style thumbnails*/
+    .thumbmails{
+        border: 1px solid #fffffff;
+        
+    }
+
     
-/*Style icons*/
-    #icons{
-        width:100%;
-    }
